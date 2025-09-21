@@ -30,7 +30,7 @@ A simulação é visual, executada diretamente no terminal, e utiliza cores para
 1. **Clone o repositório:**
 
 ```bash
-git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
+git clone https://github.com/renatoryu/robos-autonomos-armazem.git
 cd SEU-REPOSITORIO
 ```
 
