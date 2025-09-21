@@ -1,0 +1,2 @@
+# Dependências para o Simulador de Armazém Dinâmico
+colorama==0.4.6
