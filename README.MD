@@ -31,7 +31,7 @@ A simulação é visual, executada diretamente no terminal, e utiliza cores para
 
 ```bash
 git clone https://github.com/renatoryu/robos-autonomos-armazem.git
-cd SEU-REPOSITORIO
+cd robos-autonomos-armazem
 ```
 
 2. **Crie e ative um ambiente virtual (recomendado):**
